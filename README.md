@@ -21,5 +21,6 @@ Open the terminal or command prompt in the API root folder, and type the followi
 The command above starts the application
 
 # To do:
+Query top 5 movies based on total user rating
 Query top 5 movies based on a certain user's ratings
 Unit tests
