@@ -58,8 +58,6 @@ namespace MovieReview.API.Controllers
                 Response.StatusCode = 404;
             }
 
-            
-
             return resources;
         }
 
@@ -139,6 +137,7 @@ namespace MovieReview.API.Controllers
             {
                 Response.StatusCode = 404;
             }
+            
             return resources;
         }
 
